@@ -1,0 +1,5 @@
+sensirion/Sensirion I2C SHT3x@^1.0.1
+beegee-tokyo/SHT1x-ESP@^1.0.2
+beegee-tokyo/DHT sensor library for ESPx@^1.19
+mathworks/ThingSpeak@^2.0.0
+vshymanskyy/TinyGSM@^0.11.7

@@ -1,0 +1,4 @@
+beegee-tokyo/DHT sensor library for ESPx@^1.19
+vshymanskyy/TinyGSM@^0.12.0
+sensirion/Sensirion I2C SHT3x@^1.0.1
+arduino-libraries/ArduinoHttpClient@^0.6.0
