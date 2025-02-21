@@ -9,6 +9,7 @@
 #include <WiFi.h>
 #include "scan_i2c.h"
 
+// # Start The Code
 #define TINY_GSM_DEBUG SerialMon 
 #define GSM_PIN ""
 
